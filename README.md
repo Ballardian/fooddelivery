@@ -1,1 +1,1 @@
-Food delivery app in Ruby using an MVC structure.
+Food delivery app in Ruby using an MVC design pattern.
